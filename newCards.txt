@@ -1,0 +1,16 @@
+Collin;Sexton;1;61;61;ClevelandCavaliers;CCCS;
+Damyean;Dotson;1;65;71;ClevelandCavaliers;CCDD;
+Cedi;Osman;1;60;64;ClevelandCavaliers;CCCO;
+Kevin;Love;1;67;67;ClevelandCavaliers;CCKL;
+Isaiah;Hartenstein;1;55;69;ClevelandCavaliers;CCIH;
+Darius;Garland;1;74;69;ClevelandCavaliers;CCDG;
+Brodric;Thomas;1;67;68;ClevelandCavaliers;CCBT;
+Dylan;Windler;1;69;65;ClevelandCavaliers;CCDW;
+Larry;Nance,Jr.;1;61;70;ClevelandCavaliers;CCLN;
+Jarrett;Allen;1;59;58;ClevelandCavaliers;CCJA;
+Matthew;Dellavedova;1;71;74;ClevelandCavaliers;CCMD;
+Isaac;Okoro;1;56;63;ClevelandCavaliers;CCIO;
+Dean;Wade;1;69;58;ClevelandCavaliers;CCDW;
+Marques;Bolden;1;61;60;ClevelandCavaliers;CCMB;
+Taurean;Prince;1;72;61;ClevelandCavaliers;CCTP;
+Lamar;Stevens;1;70;63;ClevelandCavaliers;CCLS;
